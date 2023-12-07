@@ -5,7 +5,7 @@ This project is a complete clone UI with some functionalities of cultfit website
 <ul>
   <li>Clone the repo and run the app.</li>
   <ul>
-    <li>git clone  https://github.com/official-shashank/CultfitClone.git</li>
+    <li>git clone origin https://github.com/official-shashank/CultfitClone.git</li>
     <li>cd Cultfit-project</li>
     <li>Open Home.html page and run it</li>
   </ul>
@@ -29,7 +29,6 @@ This project is a complete clone UI with some functionalities of cultfit website
 <img src="./Cultfit_ScreenShots/Home.png" />
 
 
-<img src="./Cultfit_ScreenShots/PasswordChange.png" />
 <img src="./Cultfit_ScreenShots/buyFoods.png" />
 <img src="./Cultfit_ScreenShots/sportswear.png" />
 <img src="./Cultfit_ScreenShots/cart.png" />
